@@ -17,6 +17,7 @@
     <description>pet-clinic-data</description>
 
     <properties>
+        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
         <java.version>11</java.version>
     </properties>
 
@@ -52,16 +53,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>repackage</goal>
-                        </goals>
-                        <configuration>
-                            <skip>true</skip>
-                        </configuration>
-                    </execution>
-                </executions>
             </plugin>
 
         </plugins>
