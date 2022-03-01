@@ -10,7 +10,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/wuhoo16/pet_clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>pet-clinic-0.0.1</tag>
   </scm>
 
 </project>

@@ -4,12 +4,12 @@
     <parent>
         <groupId>guru.springframework</groupId>
         <artifactId>pet-clinic</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <groupId>guru.springframework</groupId>
     <artifactId>pet-clinic-data</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <name>pet-clinic-data</name>
     <description>pet-clinic-data</description>
