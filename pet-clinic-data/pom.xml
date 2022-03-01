@@ -7,9 +7,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>guru.springframework</groupId>
     <artifactId>pet-clinic-data</artifactId>
-    <version>0.0.1</version>
 
     <name>pet-clinic-data</name>
     <description>pet-clinic-data</description>
