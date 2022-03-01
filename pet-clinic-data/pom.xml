@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>pet-clinic-data</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>pet-clinic-data</name>
     <description>pet-clinic-data</description>
