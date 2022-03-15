@@ -19,7 +19,6 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
         this.petService = petService;
     }
 
-
     @Override
     public Owner findByLastName(String lastName) {
         return null;
