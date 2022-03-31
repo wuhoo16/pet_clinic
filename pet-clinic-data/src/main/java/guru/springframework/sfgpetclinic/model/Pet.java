@@ -24,6 +24,14 @@ public class Pet extends BaseEntity {
 
     private LocalDate birthday;
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public PetType getPetType() {
         return petType;
     }
