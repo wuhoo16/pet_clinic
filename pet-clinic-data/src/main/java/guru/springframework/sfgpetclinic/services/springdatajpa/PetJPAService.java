@@ -14,7 +14,7 @@ import java.util.Optional;
 import java.util.Set;
 
 @Service
-@Profile("springdatajpa")
+@Profile({"springdatajpa"})
 public class PetJPAService implements PetService {
     private final PetRepository petRepository;
 

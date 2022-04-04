@@ -11,7 +11,7 @@ import java.util.Optional;
 import java.util.Set;
 
 @Service
-@Profile("springdatajpa")
+@Profile({"springdatajpa"})
 public class VisitJPAService implements VisitService {
     VisitRepository visitRepository;
 
